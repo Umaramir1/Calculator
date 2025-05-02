@@ -1,2 +1,4 @@
 Console.WriteLine("Umar Amir");
 Console.WriteLine("24-ST-012");
+def subtract(a/ b):
+    return a / b
